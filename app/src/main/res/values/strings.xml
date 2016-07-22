@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">"Электрокружок</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="listen">ПОСЛУШАТЬ</string>
+    <string name="watch">ПОСМОТРЕТЬ</string>
+    <string name="read">ПОЧИТАТЬ</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pojo">org.jsonschema2pojo</string>
+    <string name="find_path">Find path</string>
+</resources>
